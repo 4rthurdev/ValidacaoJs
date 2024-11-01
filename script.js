@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Valida a senha
             if (!validatePassword(passwordInput.value, 6)) {
-                alert("A senha precisa ter no mínimo 8 dígitos");
+                alert("A senha precisa ter no mínimo 6 dígitos");
                 return;
             }
 
