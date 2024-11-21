@@ -38,7 +38,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Autores
 
-Este projeto foi desenvolvido por **Arthur Vasconcelos** e **Dhonnatam Nascimento**.
+Este projeto foi desenvolvido por **Arthur Vasconcelos** e **Dhonnatam Nascimento** e **José Neto**
 
 ## Licença
 
